@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+
+/*HEADER*/
+.header{
+    background-color: gray;
+    width: auto;
+    height: 20%;
+    padding: 40px;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0; 
+}
+
+.navigation{
+    display: flex;
+    float: right;
+    margin-top: -25px;
+
+     
+}
+
+p:hover{
+    color: whitesmoke;
+}
+
+.logo{
+    float: left;
+    margin-top: -40px;
+}
+
+p{
+    margin-right: 50px;
+}
+
+.container{
+    background-image: url('lance.jgp');
+}
+
+/*BODY*/
+.banner{
+    background-color: #ffffff;
+    width: auto;
+    height: auto;
+    padding: 280.5px;
+    text-align: center;
+    color: brown;
+}
+
+
+
+
+
+/*FOOTER*/
+
+.footer{
+    background-color: gray;
+    padding: 20px;
+    width: auto;
+    display: flex;
+
+}
+
+
+.p1 {
+    background-color: burlywood;
+    mix-blend-mode: screen;
+    padding: .1em .8em;
+}
